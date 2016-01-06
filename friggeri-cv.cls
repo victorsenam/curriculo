@@ -52,6 +52,7 @@
 
 \newfontfamily\bodyfont[]{Helvetica Neue}
 \newfontfamily\thinfont[]{HelveticaNeue-UltraLight}
+\newfontfamily\italicfont[]{HelveticaNeue-ThinItalic}
 \newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
@@ -149,7 +150,7 @@
   #1&\parbox[t]{11.8cm}{%
     \textbf{#2}%
     \hfill%
-    {\footnotesize\addfontfeature{Color=lightgray} #3}\\%
+    {\addfontfeature{Color=black} #3}\\%
     #4\vspace{\parsep}%
   }\\}
 
