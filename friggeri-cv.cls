@@ -177,6 +177,8 @@
   \let\section\oldsection
 }
 
+\newcommand{\social}[3]{\href{#1}{\textbf{#2}\hfill{#3}}}
+
 %%%%%%%%%%%%%%%%
 % Bibliography %
 %%%%%%%%%%%%%%%%

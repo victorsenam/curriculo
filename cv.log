@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.18)  6 JAN 2016 00:17
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.18)  6 JAN 2016 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ tly
 )
 \Hy@SectionHShift=\skip63
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 327.
+Package hyperref Info: Option `colorlinks' set `false' on input line 329.
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1217,12 +1217,6 @@ Overfull \hbox (2.43997pt too wide) in paragraph at lines 41--41
  [][]\EU1/HelveticaNeueLight(0)/m/n/10 victorsenam@gmail.com[]
  []
 
-File: img/fb.png Graphic file (type QTm)
-<use  "img/fb.png" >
-File: img/github.png Graphic file (type QTm)
- <use  "img/github.png" >
-File: img/codeforces.png Graphic file (type QTm)
- <use  "img/codeforces.png" >
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -1281,10 +1275,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40760 strings out of 493668
- 772179 string characters out of 6150755
- 1210590 words of memory out of 5000000
- 43673 multiletter control sequences out of 15000+600000
+ 40752 strings out of 493668
+ 772102 string characters out of 6150755
+ 1210611 words of memory out of 5000000
+ 43671 multiletter control sequences out of 15000+600000
  5709 words of font info for 56 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,9n,70p,10418b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
