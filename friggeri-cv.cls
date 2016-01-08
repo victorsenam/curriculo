@@ -152,6 +152,7 @@
     \hfill%
     {\addfontfeature{Color=black} #3}\\%
     #4\vspace{\parsep}%
+    \bigskip%
   }\\}
 
 
