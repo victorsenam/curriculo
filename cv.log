@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.18)  8 JAN 2016 00:59
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.18)  8 JAN 2016 01:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1213,10 +1213,6 @@ LaTeX Info: Redefining \nameref on input line 24.
 \openout5 = `cv.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
 Overfull \hbox (2.43997pt too wide) in paragraph at lines 41--41
  [][]\EU1/HelveticaNeueLight(0)/m/n/10 victorsenam@gmail.com[]
  []
@@ -1274,10 +1270,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
  (./cv.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 149.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 149.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
@@ -1285,7 +1277,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  40754 strings out of 493668
  772256 string characters out of 6150755
- 1210551 words of memory out of 5000000
+ 1210611 words of memory out of 5000000
  43672 multiletter control sequences out of 15000+600000
  5717 words of font info for 57 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
