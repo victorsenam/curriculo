@@ -89,8 +89,8 @@
 \section{Work and Extra-Curricular}
 
 \begin{tabular}{r|p{11cm}}
-\textsc{Summer 2016 and} & \textsc{ACM-ICPC} Summer Training Camp at UNICAMP \\
-\textsc{Summer 2017}     & \footnotesize{Attended to lectures about algorithms, data structures and competitive programming and took part in several team contests.} \\
+\textsc{Feb-Dec 2013} & Intern Web Developer at \textsc{TriForce Soluções Digitais} \\
+& \footnotesize{TriForce was a Web Development company. I took part in development of a generic content management framework, used in every website developed by the company. Worked mainly with PHP, SQL, JavaScript and HTML5/CSS3. Since it was a multi-project framework, there was a great concern for keeping code clear, organized and modular. Also worked in some of the sites developed. Usually worked with two other developers and a designer.} \\
 \multicolumn{2}{c}{} \\
 
 \textsc{Feb-Jul 2016} & Teacher's Assistant for \textsc{Algorithms and Data Structures II} \\
@@ -98,25 +98,11 @@
 \multicolumn{2}{c}{} \\
 
 \textsc{Feb 2014}     & Member of \textsc{\href{https://www.ime.usp.br/~maratona/}{MaratonIME}} \\
-\emph{Current}        & \hfill \hfill \textit{Competitive Programming Study Group} \\
- &\footnotesize{Helped on teaching students interested in competitive programming. This includes preparing and teaching lectures on topics about programming and algorithms.} \\
+\emph{Current}        & \footnotesize{Helped on teaching students interested in competitive programming. This includes preparing and teaching lectures on topics about programming and algorithms.} \\
 \multicolumn{2}{c}{} \\
 
 \textsc{Feb 2014}     & \textsc{ACM-ICPC} Contestant \\
-\emph{Current}        & \footnotesize{Training and taking part on contests from ACM-ICPC and several other competitive programming contests online, including Facebook Hacker Cup, Google Code Jam, TopCoder SRMs and Codeforces Rounds. Using mainly C/C++ and intensifying my studying of Algorithms and Data Structures.} \\
-\multicolumn{2}{c}{} \\
-
-\textsc{2015 and 2016} & Hackatons \\
-& \footnotesize{Took part in Facebook Hackathon in 2015 and Facebook-Mastercard Hackathon in 2016} \\
-\multicolumn{2}{c}{} \\
-
-\textsc{Feb-Dec 2013} & Intern Web Developer at \textsc{\href{http://www.3force.com.br/}{TriForce Soluções Digitais}} \\
-& \hfill \hfill \textit{Web Development Company} \\
-& \footnotesize{I took part in development of a generic content management framework, used in every website developed by the company. Worked mainly with PHP, SQL, JavaScript and HTML5/CSS3. Since it was a multi-project framework, there was a great concern for keeping code clear, organized and modular. Also worked in some of the sites developed. Usually worked with two other developers and a designer.} \\
-
-\textsc{Aug 2009}     & World Finalist at \textsc{IASE ISI \href{http://iase-web.org/islp/Competitions.php?p=Competitions_2008-2009}{ISLP} 2009} \\
-& \hfill \hfill \textit{School-Level Statistics Competition} \\
-& \footnotesize{I was classified to the ISLP World Finals at Durban, South Africa in 2009. And was sponsored by my school to attend at the event, attending to lectures on descritive statistics from the World Statistics Congress.} \\
+\emph{Current}        & \footnotesize{Training and taking part on contests from ACM-ICPC and several other competitive programming contests online. Using mainly C/C++ and studying Algorithms and Data Structures.}
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
@@ -126,7 +112,9 @@
 \section{Languages}
 
 \begin{tabular}{rl}
-Fluent English and Native Portuguese.\\
+\textsc{English:} & Fluent\\
+
+\textsc{Italian:} & Mothertongue\\
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
@@ -136,11 +124,76 @@ Fluent English and Native Portuguese.\\
 \section{Computer Skills}
 
 \begin{tabular}{rl}
-\textsc{C/C++}      & Mainly on competititive programming contests and university assignments \\
-\textsc{Python}     & Personal use scripting and university assignments \\
-\textsc{Ruby (on Rails)} & University assignments on web developments and personal interest \\
-\textsc{Other Languages} & \\
+& \textsc{C/C++}, my\textsc{sql}, \textsc{html}, Access, \textsc{Linux}, ubuntu, {\fb \LaTeX}\setmainfont[SmallCapsFont=Fontin SmallCaps]{Fontin-Regular}\\
 \end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS AND ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+\section{Interests and Activities}
+
+Technology, Open-Source, Programming\\
+Paradoxes in Decision Making, Psychoanalysis, Behavioural Finance\\
+Football, Travelling
+
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	GRADE TABLES
+%----------------------------------------------------------------------------------------
+
+\par{\centering\Large \hypertarget{grds}{Master of Science in \textsc{Finance}}\par}\large{\centering Grades\par}\normalsize
+
+\begin{center}
+\begin{tabular}{lcc}
+\multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade}&\textsc{Credit Hrs}\\ \hline
+Corporate Finance (Valuation) & 25 & 6\\
+Financial Statement Analysis & 28 & 6\\
+Statistics & 27 & 6\\
+Theory of Finance & 26 & 6\\
+Quantitative Methods for Finance & 30 & 6\\
+Econometrics & 24 & 6\\
+Derivatives & 31 & 6\\
+Management of Financial and Insurance Companies & 30 & 6\\
+Business Law & 31 & 6\\
+Investment Banking	& 28 & 6\\ \\		
+Behavioral Models for Economics and Finance	 & 29 & 6\\
+Numerical Methods for Finance & 29 & 6\\
+Advanced Derivatives & 30 & 6\\
+Fixed Income (Advanced Methods) & 30 & 6\\ \\
+English Language & 30 &	4\\
+French Language & 31 &	4\\	
+Internship & & 8\\		
+Final Thesis & & 20\\	
+& Total & 120\\\cline{2-3}
+&\textsc{Gpa}&\textbf{8.0}
+\end{tabular}
+\end{center}
+\bigskip
+\hrule
+\bigskip
+
+%------------------------------------------------
+
+\bigskip
+
+\par{\centering\Large \hypertarget{grds_usc}{Exchange Program at \textsc{usc}, Los Angeles}\par}\large{\centering Grades\par}\normalsize
+
+\begin{center}
+\begin{tabular}{lcc}
+\multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade} & \textsc{Grade Points}\\ 
+\hline
+Corporate Financial Strategy & A & 4\\
+Derivatives & A & 4\\
+Money, Credit, and Banking & A & 4\\
+Business Strategy & A- & 3.5\\
+& &\\\cline{2-3}
+& \textsc{Gpa} & \textbf{3.875}
+\end{tabular}
+\end{center}
 
 %----------------------------------------------------------------------------------------
 
