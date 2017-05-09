@@ -1,1 +1,198 @@
-make: *** No rule to make target 'main.pdf'.  Stop.
+xelatex cv.tex
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./cv.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty) (./cv.aux)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./cv.out) (./cv.out)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1] (./cv.aux) )
+Output written on cv.pdf (1 page).
+Transcript written on cv.log.
+xelatex cv.tex
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./cv.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty) (./cv.aux)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./cv.out) (./cv.out)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1] (./cv.aux) )
+Output written on cv.pdf (1 page).
+Transcript written on cv.log.
+xelatex cv.tex
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./cv.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/realscripts/realscripts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty) (./cv.aux)
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./cv.out) (./cv.out)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1] (./cv.aux) )
+Output written on cv.pdf (1 page).
+Transcript written on cv.log.

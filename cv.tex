@@ -27,15 +27,20 @@
 
 \usepackage{fontspec} % For loading fonts
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin} % Main document font
+\setmainfont[Path = ./fonts/, 
+             UprightFont = *-Regular, 
+             SmallCapsFont = *-SmallCaps, 
+             ItalicFont = *-Italic, 
+             BoldFont = *-Bold
+            ]{Fontin} % Main document font
 
 \usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
 
 \usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
 
-\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
+\usepackage{fullpage} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
 % To reduce the height of the top margin uncomment: 
-\addtolength{\voffset}{-1.3cm}
+%\addtolength{\voffset}{-1.3cm}
 
 \usepackage{hyperref} % Required for adding links	and customizing them
 \definecolor{linkcolour}{rgb}{0,0.2,0.6} % Link color
@@ -44,6 +49,10 @@
 \usepackage{titlesec} % Used to customize the \section command
 \titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
 \titlespacing{\section}{0pt}{3pt}{3pt} % Spacing around sections
+
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\sloppy
 
 \begin{document}
 
@@ -57,7 +66,7 @@
 
 \par{\centering{\Huge Victor Sena \textsc{Molero}}\bigskip\par} % Your name
 
-\section{Personal Data}
+%\section{Personal Data}
 
 \begin{tabular}{rl}
 \textsc{Place and Date of Birth:} & Brazil | 15 March 1996 \\
@@ -65,8 +74,6 @@
 \textsc{Phone:} & +55 1 11 98551 1911\\
 \textsc{email:} & \href{mailto:victorsenam@gmail.com}{victorsenam@gmail.com} \\
 \textsc{github:} & \href{https://github.com/victorsenam}{victorsenam} \\
-\textsc{codeforces:} & \href{http://codeforces.com/profile/victorsenam}{\textbf{\textcolor{Fuchsia}{victorsenam}}} [rating 2113, 9th place in Brazil]\\
-\textsc{topcoder:} & \href{https://www.topcoder.com/members/victorsenam}{\textbf{victorsenam}} [rating 1495, 17th place in Brazil]
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
@@ -75,31 +82,35 @@
 
 \section{Education}
 
-\begin{tabular}{rl}	
-2014-2018 & Bacharelado em Ciência da Computação \textit{(Computer Science)} \\
-(current) & Emphasis in Theoretical Computer Science \\
-          & \textbf{Universidade de São Paulo} \\
-&\\
+\begin{tabular}{r|p{11cm}}
+\textsc{Feb 2014 to Dec 2018}   & Bachelor in Computer Science at \textsc{Universidade de São Paulo}\\
+\textsc{(current)}              & \footnotesize{emphasis on theoretical computer science} \\
+\multicolumn{2}{c}{} \\
 \end{tabular}
+
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE 
 %----------------------------------------------------------------------------------------
 
-\section{Work and Extra-Curricular}
+\section{Extra-Curricular}
+\centering{
+    \begin{tabular}{P{.4\textwidth}P{.4\textwidth}}
+        \href{http://codeforces.com/profile/victorsenam}{\textsc{Codeforces}}  & \href{https://www.topcoder.com/members/victorsenam}{\textsc{TopCoder}} \\
+        Rating 2103, 7th place in Brazil                                       & Rating 1555
+        %\multicolumn{2}{c}{} \\
+    \end{tabular}
+}
+
 
 \begin{tabular}{r|p{11cm}}
 \textsc{Summer 2016 and} & \textsc{ACM-ICPC} Summer Training Camp at UNICAMP \\
 \textsc{Summer 2017}     & \footnotesize{Attended to lectures about algorithms, data structures and competitive programming and took part in several team contests.} \\
 \multicolumn{2}{c}{} \\
 
-\textsc{Feb-Jul 2016} & Teacher's Assistant for \textsc{Algorithms and Data Structures II} \\
-& \footnotesize{Worked for Professor Yoshiharu Kohayakawa preparing and grading programming assignments for students. This helped me develop some skill to read and tests code from other people.} \\
-\multicolumn{2}{c}{} \\
-
 \textsc{Feb 2014}     & Member of \textsc{\href{https://www.ime.usp.br/~maratona/}{MaratonIME}} \\
 \emph{Current}        & \hfill \hfill \textit{Competitive Programming Study Group} \\
- &\footnotesize{Helped on teaching students interested in competitive programming. This includes preparing and teaching lectures on topics about programming and algorithms.} \\
+ &\footnotesize{Helps on training students interested in competitive programming mainly preparing and teaching lectures on topics about programming and algorithms.} \\
 \multicolumn{2}{c}{} \\
 
 \textsc{Feb 2014}     & \textsc{ACM-ICPC} Contestant \\
@@ -110,36 +121,31 @@
 & \footnotesize{Took part in Facebook Hackathon in 2015 and Facebook-Mastercard Hackathon in 2016} \\
 \multicolumn{2}{c}{} \\
 
+% \textsc{Aug 2009}     & World Finalist at \textsc{IASE ISI \href{http://iase-web.org/islp/Competitions.php?p=Competitions_2008-2009}{ISLP} 2009} \\
+% & \hfill \hfill \textit{School-Level Statistics Competition} \\
+% & \footnotesize{Qualified to the ISLP World Finals at Durban, South Africa in 2009. And was sponsored by my school to attend at the event, attending to lectures on descritive statistics from the World Statistics Congress.} \\
+\end{tabular}
+
+\section{Work}
+
+\begin{tabular}{r|p{11cm}}
 \textsc{Feb-Dec 2013} & Intern Web Developer at \textsc{\href{http://www.3force.com.br/}{TriForce Soluções Digitais}} \\
 & \hfill \hfill \textit{Web Development Company} \\
-& \footnotesize{I took part in development of a generic content management framework, used in every website developed by the company. Worked mainly with PHP, SQL, JavaScript and HTML5/CSS3. Since it was a multi-project framework, there was a great concern for keeping code clear, organized and modular. Also worked in some of the sites developed. Usually worked with two other developers and a designer.} \\
+& \footnotesize{Development of a generic content management framework, used in every website developed by the company. Worked mainly with PHP, SQL, JavaScript and HTML5/CSS3 with two other programmers and a designer. Since it was a multi-project framework, there was a great concern for keeping code clear, organized and modular.} \\
+\multicolumn{2}{c}{} \\
 
-\textsc{Aug 2009}     & World Finalist at \textsc{IASE ISI \href{http://iase-web.org/islp/Competitions.php?p=Competitions_2008-2009}{ISLP} 2009} \\
-& \hfill \hfill \textit{School-Level Statistics Competition} \\
-& \footnotesize{I was classified to the ISLP World Finals at Durban, South Africa in 2009. And was sponsored by my school to attend at the event, attending to lectures on descritive statistics from the World Statistics Congress.} \\
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
 %	LANGUAGES
 %----------------------------------------------------------------------------------------
 
-\section{Languages}
+\section{Programming Languages}
 
-\begin{tabular}{rl}
-Fluent English and Native Portuguese.\\
-\end{tabular}
-
-%----------------------------------------------------------------------------------------
-%	COMPUTER SKILLS 
-%----------------------------------------------------------------------------------------
-
-\section{Computer Skills}
-
-\begin{tabular}{rl}
-\textsc{C/C++}      & Mainly on competititive programming contests and university assignments \\
-\textsc{Python}     & Personal use scripting and university assignments \\
-\textsc{Ruby (on Rails)} & University assignments on web developments and personal interest \\
-\textsc{Other Languages} & \\
+\begin{tabular}{rp{10cm}}
+\textsc{C/C++}                 & \footnotesize{3 years of experience mainly on competititive programming contests and university assignments.} \\[0.4cm]
+\textsc{JavaScript (and Node)} & \footnotesize{1 year of work experience at TriForce. 5 years of use in small personal projects.} \\[0.4cm]
+\textsc{PHP}       & \footnotesize{1 year of work experience at TriForce.} \\
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
